@@ -1,0 +1,13 @@
+title: SurveyAI
+description: >-
+  Infrastructure for survey data documentation and analysis, powered by
+  large language models. A project by the University of Helsinki / DARIAH-FI.
+url: "https://dariah-fi-surveyai.github.io"
+baseurl: "/surveyai-site"
+
+markdown: kramdown
+theme: null
+plugins: []
+
+exclude:
+  - README.md
