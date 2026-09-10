@@ -3,17 +3,7 @@ layout: default
 title: Home
 ---
 
-<header class="site-header">
-  <div class="wrap">
-    <div class="brand">
-      <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="SurveyAI logo">
-      <span class="brand-name">DARIAH-FI <span>/</span> SurveyAI</span>
-    </div>
-    <nav class="site-nav">
-      <a href="https://github.com/DARIAH-FI-SurveyAI">GitHub</a>
-    </nav>
-  </div>
-</header>
+{% include header.html %}
 
 <section class="hero">
   <div class="wrap">
@@ -68,7 +58,7 @@ title: Home
     <div class="var-row">
       <div class="var-id">T1</div>
       <div class="var-body">
-        <h3>Generative AI &amp; LLM tools for social science data</h3>
+        <h3><a href="{{ '/t1/' | relative_url }}">Generative AI &amp; LLM tools for social science data</a></h3>
         <p>
           Developing and evaluating generative AI and large language
           model tools for analysing social science data, largely within
@@ -115,15 +105,4 @@ title: Home
   </div>
 </section>
 
-<footer class="site-footer">
-  <div class="wrap">
-    <p>
-      &copy; {{ 'now' | date: "%Y" }} SurveyAI &middot;
-      part of <a href="https://www.dariah.fi/">DARIAH-FI</a> &middot;
-      <a href="https://socialdatascience.helsinki.fi/">Centre for Social Data Science</a>, University of Helsinki
-    </p>
-    <nav>
-      <a href="https://github.com/DARIAH-FI-SurveyAI">GitHub</a>
-    </nav>
-  </div>
-</footer>
+{% include footer.html %}
