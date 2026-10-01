@@ -2,7 +2,7 @@
 
 Jekyll source for the SurveyAI project site (DARIAH-FI-SurveyAI, University
 of Helsinki). This is the starting point: a single homepage that can be
-expanded with more pages later.
+expanded with more pages later. (www page](https://dariah-fi-surveyai.github.io/surveyai-site/))
 
 ## How to publish it on GitHub Pages
 
