@@ -23,3 +23,6 @@ generative AI and LLMs are relevant to social science data analysis.)*
 
 - [Using RAG](https://dariah-fi-surveyai.github.io/SurveyDokum/articles/using-rag.html)
 
+## Tools
+- [transforEmotion: Sentiment Analysis for Text, Image and Video Using Transformer Models](https://github.com/atomashevic/transforEmotion)
+
