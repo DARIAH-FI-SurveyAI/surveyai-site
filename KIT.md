@@ -21,8 +21,5 @@ generative AI and LLMs are relevant to social science data analysis.)*
 
 ## Outputs
 
-*(List outputs as they become available — e.g. R packages, papers,
-workshop materials. You can use a normal Markdown list, like this:)*
+- [Using RAG](https://dariah-fi-surveyai.github.io/SurveyDokum/articles/using-rag.html)
 
-- *Output one*
-- *Output two*
