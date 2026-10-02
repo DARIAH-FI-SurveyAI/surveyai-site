@@ -22,8 +22,11 @@ and editing may often remain under-reported.
 Although, the quality reports and methodological guidelines would be disseminated publicly they 
 have a limited scope for ensuring the transparency and re-producibility of survey results unless
 the code is published and shared. Also if the data complemented with published metadata, 
-including identificators such as PIDs for the data the findability and therefoe the research 
-value of the data may remain low for re-use and research purposes.
+including identificators such as PIDs for the data the findability and therefore the research 
+value and the reusability maturity indicators of the data remain low for re-use and research purposes.
+
+Find more about the FAIR principles: https://www.gofair.foundation/fair-principles
+and reusability maturity indicators: https://fairtoolkit.pistoiaalliance.org/methods/reusability-maturity-indicators/
 
 
 
