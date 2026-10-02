@@ -10,30 +10,32 @@ Mapping where AI can support the survey process, following the Generic Statistic
 Business Process Model (GSPBM) used in official statistics production — with particular focus on the findability of data, re-producibility of estimates and missing-data challenge.
 
 ## Background
-*
+
 The Generic Statistical Business Production Model is widely implemented way of 
 identifying and structuring the elements of statistics production process. Regardless of 
 its ultimate purposes to support the production of metadata of the statistics production 
 process and share methods and components for statistics production, the provenance data sets 
 for statistics from the original data sources can remain vague for re-producibility and re-use 
 of the data sets. Operations like data wrangling and human judgemental decisions in imputation 
-and editing may often remain under-reported. Although, the quality reports and methodological 
-guidelines would be disseminated publicly they have a limited scope for ensuring the 
-transparency and re-producibility of survey results. Also if the data is not published and 
-attached with irch metadata, including identificators such as PIDs the findability of the data 
-may remain low for research purposes.*
+and editing may often remain under-reported. 
+
+Although, the quality reports and methodological guidelines would be disseminated publicly they 
+have a limited scope for ensuring the transparency and re-producibility of survey results unless
+the code is published and shared. Also if the data complemented with published metadata, 
+including identificators such as PIDs for the data the findability and therefoe the research 
+value of the data may remain low for re-use and research purposes.
 
 
 
 ## Approach
-*
+
 SurveyAI data toolkit makes new holistic proposal for statistical survey processes
 providing R-toolkit, ensuring the reproducibility of survey results and the assessment of
 FAIR principles in the data production. The approach will utilize AI throughout the survey 
 process for tasks for which it is responsible to use. We will also assess and examine the 
 impact of hallusination of A.
 The GSBPM model has been defined in the https://unece.github.io/GSBPM-5.2/
-*
+
 
 ## Outputs
 
